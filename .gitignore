@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+__MACOSX/
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env files (never commit real secrets/keys)
+.env
+.env.local
