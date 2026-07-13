@@ -136,13 +136,6 @@ open index.html      # macOS
 - ✅ Semantic HTML for improved accessibility and SEO ranking
 - ✅ Optimized image assets for faster page loads
 
-## 🗺️ Roadmap
-
-- [ ] Add Google Analytics integration
-- [ ] Add blog section for compliance-related articles
-- [ ] Convert enquiry form to a backend-driven submission (email/DB)
-- [ ] Add dark mode support
-
 ## 📄 Project Type
 
 **Freelance Client Project** — designed, developed, and deployed independently for Prime Compliances by the author below.
